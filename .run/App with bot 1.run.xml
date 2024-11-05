@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="App with bot 1" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="trifleConsole.TrifleConsole" />
+    <module name="trifle" />
+    <option name="PROGRAM_PARAMETERS" value="1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
